@@ -30,7 +30,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    self.view.backgroundColor = [UIColor colorWithRed:200.0 green:100.0 blue:255.0 alpha:1.0];
+    self.view.backgroundColor = [UIColor yellowColor];
     
     [self SetupMainTabBar];
     [self SetupAllControllers];
